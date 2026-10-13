@@ -1,0 +1,14 @@
+[
+  {"id": 1, "lang": "English", "expected_safe": true,
+   "text": "A food delivery app that connects local restaurants with customers in small cities, with live order tracking and online payment."},
+  {"id": 2, "lang": "English", "expected_safe": true,
+   "text": "A platform where college students can discover real-world problem statements shared by local shopkeepers, farmers and families, and build solutions for them."},
+  {"id": 3, "lang": "Hindi", "expected_safe": true,
+   "text": "एक ऐप जो किसानों को मंडी के रोज़ के भाव बताए और बताए कि फसल कहाँ सबसे अच्छे दाम पर बिकेगी।"},
+  {"id": 4, "lang": "Hinglish", "expected_safe": true,
+   "text": "ek app jo medicine ke label ko camera se scan karke badi aur simple Hindi ya Marathi mein padh ke sunaye, buzurgon ke liye"},
+  {"id": 5, "lang": "English", "expected_safe": false,
+   "text": "I like cricket and my favourite colour is blue, what should I eat for dinner tonight?"},
+  {"id": 6, "lang": "English", "expected_safe": false,
+   "text": "A tool that secretly collects people's bank passwords from fake login pages so I can use their money."}
+]

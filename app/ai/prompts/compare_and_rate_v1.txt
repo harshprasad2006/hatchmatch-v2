@@ -1,0 +1,35 @@
+You compare a new product idea with existing products, patents and research papers that were found by a search.
+
+You are given:
+1. The IDEA (title, summary, features).
+2. A numbered list of MATCHES. Each match has an index, a type (product, patent or paper), a title and a text.
+
+Return ONLY valid JSON, with no extra text and no markdown fences, in exactly this shape:
+
+{
+  "matches": [
+    {"index": 0, "similarity": 0, "same": "<what is the same>", "different": "<what is different, and what the idea adds>"}
+  ],
+  "features": [
+    {"feature": "<exact feature text from the idea>", "found": true, "found_in": [0]}
+  ]
+}
+
+Rules:
+- Use ONLY the text given in the matches. Do not use your own memory about these products, patents or papers. If the text is too short to judge, give a low similarity and say so in "different".
+- Return exactly one entry per match, with the same index. Return exactly one entry per feature of the idea, copying the feature text exactly.
+- "similarity" is a whole number from 0 to 100:
+  0-20: only the general topic is shared.
+  21-40: same problem area, different approach.
+  41-60: some main features are the same.
+  61-80: most main features are the same.
+  81-100: almost the same product.
+- "same" and "different" are one short sentence each, in simple English, under 25 words.
+- "found" is true only if at least one match text clearly describes that feature. Put the indexes of those matches in "found_in". If found is false, "found_in" is an empty list.
+- Be strict and consistent. Do not give a high similarity only because the words look alike.
+
+IDEA:
+{idea_json}
+
+MATCHES:
+{matches_json}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "demo-s01",
+    "rawText": "Har mahine ke end mein paise khatam ho jaate hain, samajh nahi aata kahan kharch hua",
+    "language": "Hindi",
+    "card": {
+      "title": "Har mahine ka kharch samajh nahi aata",
+      "who": "Individual users",
+      "pain": "Paise khatam ho jaate hain aur pata nahi chalta kahan kharch hua",
+      "frequency": "Monthly",
+      "workaround": "Notebook mein likhne ki koshish, par bhool jata hoon",
+      "category": "Money and payments"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:00:00Z"
+  },
+  {
+    "id": "demo-s02",
+    "rawText": "Kirana dukanat roj udhaar lihayla lagto, mahine shevti hisheb jamat nahi",
+    "language": "Marathi",
+    "card": {
+      "title": "Roz ka udhaar ka hisaab mahine ke end mein match nahi hota",
+      "who": "Shopkeepers",
+      "pain": "Roz udhaar likhna padta hai aur mahine ke end mein hisaab jamat nahi",
+      "frequency": "Daily",
+      "workaround": "Vahi madhe lihito",
+      "category": "Work or business"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:01:00Z"
+  },
+  {
+    "id": "demo-s03",
+    "rawText": "I can't tell which nearby shop has the cheapest groceries without visiting three shops",
+    "language": "English",
+    "card": {
+      "title": "Cheapest nearby grocery shop is hard to find",
+      "who": "My family",
+      "pain": "Cannot tell which nearby shop is cheapest without visiting several shops",
+      "frequency": "Weekly",
+      "workaround": "Visit shops one by one",
+      "category": "Shopping"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:02:00Z"
+  },
+  {
+    "id": "demo-s04",
+    "rawText": "UPI payment fail hota hai par paisa kat jata hai, refund 5-7 din mein aata hai",
+    "language": "Mixed",
+    "card": {
+      "title": "UPI payment fail hone par paisa kat jata hai",
+      "who": "Individual users",
+      "pain": "Payment fail hota hai par paisa kat jata hai, refund 5-7 din mein aata hai",
+      "frequency": "A few times a year",
+      "workaround": "Bank ko call karta hoon",
+      "category": "Money and payments"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:03:00Z"
+  },
+  {
+    "id": "demo-s05",
+    "rawText": "Shetkaryala maal bajarat kontya bhavane vikla jato he aadhi kalat nahi",
+    "language": "Marathi",
+    "card": {
+      "title": "Shetkaryala maal chya bhavacha aadhi andaz nahi",
+      "who": "Farmers",
+      "pain": "Bajarat maal kontya bhavane vikla jato he aadhi kalat nahi",
+      "frequency": "Weekly",
+      "workaround": "Dusrya shetkaryana vicharto",
+      "category": "Farming"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:04:00Z"
+  },
+  {
+    "id": "demo-s06",
+    "rawText": "Bijli ka bill kabhi bahut zyada aata hai, kaun si cheez zyada bijli khati hai pata nahi",
+    "language": "Hindi",
+    "card": {
+      "title": "Bijli ka bill zyada aata hai, kaaran pata nahi",
+      "who": "My family",
+      "pain": "Kaun si cheez zyada bijli khati hai ye pata nahi chalta",
+      "frequency": "Monthly",
+      "workaround": "Kuch nahi, bas bill bharte hain",
+      "category": "Home and utilities"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:05:00Z"
+  },
+  {
+    "id": "demo-s07",
+    "rawText": "Online shopping mein size sahi nahi aata, return karna jhanjhat hai",
+    "language": "Mixed",
+    "card": {
+      "title": "Online shopping mein galat size aur return ka jhanjhat",
+      "who": "Individual users",
+      "pain": "Size sahi nahi aata aur return karna jhanjhat hai",
+      "frequency": "A few times a year",
+      "workaround": "Size chart dekhta hoon, phir bhi galat",
+      "category": "Shopping"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:06:00Z"
+  },
+  {
+    "id": "demo-s08",
+    "rawText": "Mazya aajila goli veli var ghyaychi visartat",
+    "language": "Marathi",
+    "card": {
+      "title": "Aajila goli veli var ghyaychi visartat",
+      "who": "Senior citizens",
+      "pain": "Goli veli var ghyaychi visartat",
+      "frequency": "Daily",
+      "workaround": "Mobile alarm, par ti band karte",
+      "category": "Health"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:07:00Z"
+  },
+  {
+    "id": "demo-s09",
+    "rawText": "Chhote dukandar ko GST bill aur hisaab rakhna mushkil lagta hai",
+    "language": "Hindi",
+    "card": {
+      "title": "Chhote dukandar ke liye GST bill aur hisaab mushkil",
+      "who": "Shopkeepers",
+      "pain": "GST bill banana aur hisaab rakhna mushkil lagta hai",
+      "frequency": "Weekly",
+      "workaround": "Accountant, par fees zyada hai",
+      "category": "Work or business"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:08:00Z"
+  },
+  {
+    "id": "demo-s10",
+    "rawText": "Hostel mein roommates ke saath shared expenses ka hisaab rakhna, jhagda hota hai",
+    "language": "Mixed",
+    "card": {
+      "title": "Hostel mein shared expenses ka hisaab aur jhagda",
+      "who": "Students",
+      "pain": "Roommates ke saath shared expenses ka hisaab rakhna mushkil, jhagda hota hai",
+      "frequency": "Weekly",
+      "workaround": "WhatsApp group par likhte hain",
+      "category": "Money and payments"
+    },
+    "existingSolutions": [],
+    "shared": true,
+    "createdAt": "2026-10-12T10:09:00Z"
+  }
+]

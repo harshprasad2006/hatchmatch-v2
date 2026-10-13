@@ -1,0 +1,1191 @@
+{
+  "problems": {
+    "demo-s01": {
+      "id": "demo-s01",
+      "card": {
+        "title": "Har mahine ka kharch samajh nahi aata",
+        "who": "Individual users",
+        "pain": "Paise khatam ho jaate hain aur pata nahi chalta kahan kharch hua",
+        "frequency": "Monthly",
+        "workaround": "Notebook mein likhne ki koshish, par bhool jata hoon",
+        "category": "Money and payments"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:00:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s02": {
+      "id": "demo-s02",
+      "card": {
+        "title": "Roz ka udhaar ka hisaab mahine ke end mein match nahi hota",
+        "who": "Shopkeepers",
+        "pain": "Roz udhaar likhna padta hai aur mahine ke end mein hisaab jamat nahi",
+        "frequency": "Daily",
+        "workaround": "Vahi madhe lihito",
+        "category": "Work or business"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:01:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s03": {
+      "id": "demo-s03",
+      "card": {
+        "title": "Cheapest nearby grocery shop is hard to find",
+        "who": "My family",
+        "pain": "Cannot tell which nearby shop is cheapest without visiting several shops",
+        "frequency": "Weekly",
+        "workaround": "Visit shops one by one",
+        "category": "Shopping"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:02:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s04": {
+      "id": "demo-s04",
+      "card": {
+        "title": "UPI payment fail hone par paisa kat jata hai",
+        "who": "Individual users",
+        "pain": "Payment fail hota hai par paisa kat jata hai, refund 5-7 din mein aata hai",
+        "frequency": "A few times a year",
+        "workaround": "Bank ko call karta hoon",
+        "category": "Money and payments"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:03:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s05": {
+      "id": "demo-s05",
+      "card": {
+        "title": "Shetkaryala maal chya bhavacha aadhi andaz nahi",
+        "who": "Farmers",
+        "pain": "Bajarat maal kontya bhavane vikla jato he aadhi kalat nahi",
+        "frequency": "Weekly",
+        "workaround": "Dusrya shetkaryana vicharto",
+        "category": "Farming"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:04:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s06": {
+      "id": "demo-s06",
+      "card": {
+        "title": "Bijli ka bill zyada aata hai, kaaran pata nahi",
+        "who": "My family",
+        "pain": "Kaun si cheez zyada bijli khati hai ye pata nahi chalta",
+        "frequency": "Monthly",
+        "workaround": "Kuch nahi, bas bill bharte hain",
+        "category": "Home and utilities"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:05:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s07": {
+      "id": "demo-s07",
+      "card": {
+        "title": "Online shopping mein galat size aur return ka jhanjhat",
+        "who": "Individual users",
+        "pain": "Size sahi nahi aata aur return karna jhanjhat hai",
+        "frequency": "A few times a year",
+        "workaround": "Size chart dekhta hoon, phir bhi galat",
+        "category": "Shopping"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:06:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s08": {
+      "id": "demo-s08",
+      "card": {
+        "title": "Aajila goli veli var ghyaychi visartat",
+        "who": "Senior citizens",
+        "pain": "Goli veli var ghyaychi visartat",
+        "frequency": "Daily",
+        "workaround": "Mobile alarm, par ti band karte",
+        "category": "Health"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:07:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s09": {
+      "id": "demo-s09",
+      "card": {
+        "title": "Chhote dukandar ke liye GST bill aur hisaab mushkil",
+        "who": "Shopkeepers",
+        "pain": "GST bill banana aur hisaab rakhna mushkil lagta hai",
+        "frequency": "Weekly",
+        "workaround": "Accountant, par fees zyada hai",
+        "category": "Work or business"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:08:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "demo-s10": {
+      "id": "demo-s10",
+      "card": {
+        "title": "Hostel mein shared expenses ka hisaab aur jhagda",
+        "who": "Students",
+        "pain": "Roommates ke saath shared expenses ka hisaab rakhna mushkil, jhagda hota hai",
+        "frequency": "Weekly",
+        "workaround": "WhatsApp group par likhte hain",
+        "category": "Money and payments"
+      },
+      "card_en": null,
+      "existing_solutions": [],
+      "shared": true,
+      "created_at": "2026-10-12T10:09:00Z",
+      "partial": false,
+      "errors": []
+    },
+    "22770220-fd6b-4c2e-ba7b-670284f7927b": {
+      "id": "22770220-fd6b-4c2e-ba7b-670284f7927b",
+      "card": {
+        "title": "QR भुगतान में सूचना न मिलना",
+        "who": "दुकान मालिक",
+        "pain": "ग्राहक QR स्कैन करके भुगतान करता है, पर फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "card_en": {
+        "title": "No notification for QR payment",
+        "who": "Shop owner",
+        "pain": "Customer scans QR and pays, but no SMS or notification appears on the phone for up to 10 minutes, causing the customer to leave and creating confusion",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "existing_solutions": [
+        {
+          "name": "Paytm",
+          "summary": "A digital wallet and QR payment app that sends instant in‑app and SMS confirmations after a QR scan, reducing wait time.",
+          "link": "https://www.google.com/search?q=Paytm"
+        },
+        {
+          "name": "PhonePe",
+          "summary": "A UPI‑based payments platform that provides real‑time transaction alerts via push notifications and SMS for QR code payments.",
+          "link": "https://www.google.com/search?q=PhonePe"
+        },
+        {
+          "name": "Google Pay",
+          "summary": "A UPI payment app that instantly notifies users with push notifications and SMS after completing a QR code payment.",
+          "link": "https://www.google.com/search?q=Google+Pay"
+        },
+        {
+          "name": "Google Patents Search: QR भुगतान में सूचना न मिलना ग्राहक QR स्कैन करके भुगतान करता है, पर फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=QR+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%E0%A4%A8+%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+QR+%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88%2C+%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%8B%E0%A4%A8+%E0%A4%AA%E0%A4%B0+10+%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F+%E0%A4%A4%E0%A4%95+SMS+%E0%A4%AF%E0%A4%BE+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE%2C+%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+%E0%A4%9A%E0%A4%B2%E0%A4%BE+%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+%E0%A4%94%E0%A4%B0+%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+        }
+      ],
+      "shared": false,
+      "created_at": "2026-10-12T22:30:44.086030+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "a59ff2da-9d70-4b98-8617-3a9d8c00021d": {
+      "id": "a59ff2da-9d70-4b98-8617-3a9d8c00021d",
+      "card": {
+        "title": "Bijli baar baar jati hai aur inverter battery jaldi khatam",
+        "who": "ghar ke log",
+        "pain": "Bijli baar baar jati hai aur inverter ki battery jaldi khatam ho jati hai",
+        "frequency": "baar baar",
+        "workaround": "Not mentioned",
+        "category": "Home"
+      },
+      "card_en": {
+        "title": "Frequent power cuts and fast battery drain",
+        "who": "Homeowners",
+        "pain": "Power goes out frequently and the inverter battery runs out quickly",
+        "frequency": "Frequent",
+        "workaround": "Not mentioned",
+        "category": "Home"
+      },
+      "existing_solutions": [
+        {
+          "name": "APC PowerChute",
+          "summary": "Power management software that monitors UPS and battery health, helping prevent frequent outages and battery drain.",
+          "link": "https://www.google.com/search?q=APC+PowerChute"
+        },
+        {
+          "name": "Tesla Powerwall",
+          "summary": "Home battery storage system that stores solar or grid power, reducing reliance on inverter batteries during outages.",
+          "link": "https://www.google.com/search?q=Tesla+Powerwall"
+        },
+        {
+          "name": "Victron BMV Battery Monitor",
+          "summary": "Device and app that tracks inverter battery voltage, state of charge and usage to extend battery life.",
+          "link": "https://www.google.com/search?q=Victron+BMV+Battery+Monitor"
+        },
+        {
+          "name": "Google Patents Search: Bijli baar baar jati hai aur inverter battery jaldi khatam Bijli baar baar jati hai aur inverter ki battery jaldi khatam ho jati hai",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Bijli+baar+baar+jati+hai+aur+inverter+battery+jaldi+khatam+Bijli+baar+baar+jati+hai+aur+inverter+ki+battery+jaldi+khatam+ho+jati+hai"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-12T22:33:15.922315+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "431d2c12-5863-4f99-88de-46d1a1b62ce0": {
+      "id": "431d2c12-5863-4f99-88de-46d1a1b62ce0",
+      "card": {
+        "title": "दवाई की कमी और लंबी कतार",
+        "who": "मरीज",
+        "pain": "पर्ची लेकर 3 घंटे इंतजार करना और फिर दवाई नहीं मिलना",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Health"
+      },
+      "card_en": {
+        "title": "Medicine shortage and long queue",
+        "who": "Patients",
+        "pain": "Having to wait 3 hours with a prescription only to find the medicine is out of stock",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Health"
+      },
+      "existing_solutions": [
+        {
+          "name": "1mg",
+          "summary": "Online pharmacy and health platform that lets users order medicines for home delivery, avoiding long queues and stock shortages.",
+          "link": "https://www.google.com/search?q=1mg"
+        },
+        {
+          "name": "PharmEasy",
+          "summary": "E‑commerce service for medicines and health products with delivery and real‑time stock checks, reducing wait times at pharmacies.",
+          "link": "https://www.google.com/search?q=PharmEasy"
+        },
+        {
+          "name": "Practo",
+          "summary": "Healthcare app offering medicine ordering, teleconsultations, and pharmacy delivery to bypass in‑person pharmacy lines.",
+          "link": "https://www.google.com/search?q=Practo"
+        },
+        {
+          "name": "Google Patents Search: दवाई की कमी और लंबी कतार पर्ची लेकर 3 घंटे इंतजार करना और फिर दवाई नहीं मिलना",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=%E0%A4%A6%E0%A4%B5%E0%A4%BE%E0%A4%88+%E0%A4%95%E0%A5%80+%E0%A4%95%E0%A4%AE%E0%A5%80+%E0%A4%94%E0%A4%B0+%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%80+%E0%A4%95%E0%A4%A4%E0%A4%BE%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%B0+3+%E0%A4%98%E0%A4%82%E0%A4%9F%E0%A5%87+%E0%A4%87%E0%A4%82%E0%A4%A4%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%AB%E0%A4%BF%E0%A4%B0+%E0%A4%A6%E0%A4%B5%E0%A4%BE%E0%A4%88+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-12T22:33:52.561544+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "cf489bf3-bd5f-48e4-9cf5-c1981d39f14a": {
+      "id": "cf489bf3-bd5f-48e4-9cf5-c1981d39f14a",
+      "card": {
+        "title": "QR भुगतान में नोटिफिकेशन नहीं आता",
+        "who": "दुकान मालिक",
+        "pain": "ग्राहक QR स्कैन करता है लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है।",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "card_en": {
+        "title": "No notification after QR payment",
+        "who": "Shop owner",
+        "pain": "Customer scans QR and pays, but no SMS or notification appears on the phone for up to 10 minutes, causing the customer to leave and creating confusion.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "existing_solutions": [
+        {
+          "name": "Paytm",
+          "summary": "Mobile wallet that supports QR code payments and sends instant in‑app notifications to confirm transactions",
+          "link": "https://www.google.com/search?q=Paytm"
+        },
+        {
+          "name": "PhonePe",
+          "summary": "Digital payments app offering QR code payments with real‑time push notifications for payment status",
+          "link": "https://www.google.com/search?q=PhonePe"
+        },
+        {
+          "name": "Google Pay",
+          "summary": "Payment platform that uses QR codes for merchant payments and provides immediate notification of successful transactions",
+          "link": "https://www.google.com/search?q=Google+Pay"
+        },
+        {
+          "name": "Google Patents Search: QR भुगतान में नोटिफिकेशन नहीं आता ग्राहक QR स्कैन करता है लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है।",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=QR+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+QR+%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AB%E0%A5%8B%E0%A4%A8+%E0%A4%AA%E0%A4%B0+10+%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F+%E0%A4%A4%E0%A4%95+SMS+%E0%A4%AF%E0%A4%BE+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE%2C+%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+%E0%A4%9A%E0%A4%B2%E0%A4%BE+%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+%E0%A4%94%E0%A4%B0+%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A5%A4"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-12T22:39:54.637444+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "c5fd84f3-d7fa-4fd9-bfbb-dd95f8a17de1": {
+      "id": "c5fd84f3-d7fa-4fd9-bfbb-dd95f8a17de1",
+      "card": {
+        "title": "Difficulty finding genuine hackathon problems",
+        "who": "Students",
+        "pain": "They have trouble finding authentic problems to work on in hackathons.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Education"
+      },
+      "card_en": {
+        "title": "Difficulty finding genuine hackathon problems",
+        "who": "Students",
+        "pain": "They have trouble finding authentic problems to work on in hackathons.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Education"
+      },
+      "existing_solutions": [
+        {
+          "name": "Devpost",
+          "summary": "Hackathon platform that aggregates hackathon listings and challenge descriptions, helping participants discover authentic problem statements.",
+          "link": "https://www.google.com/search?q=Devpost"
+        },
+        {
+          "name": "HackerEarth",
+          "summary": "Provides hackathon hosting and a library of coding challenges and problem statements for participants to explore genuine hackathon problems.",
+          "link": "https://www.google.com/search?q=HackerEarth"
+        },
+        {
+          "name": "Major League Hacking (MLH)",
+          "summary": "Community platform that organizes hackathons and publishes official challenge briefs, enabling participants to find real hackathon problems.",
+          "link": "https://www.google.com/search?q=Major+League+Hacking+%28MLH%29"
+        },
+        {
+          "name": "Google Patents Search: Difficulty finding genuine hackathon problems They have trouble finding authentic problems to work on in hackathons.",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Difficulty+finding+genuine+hackathon+problems+They+have+trouble+finding+authentic+problems+to+work+on+in+hackathons."
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T04:26:45.688711+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "07982ff3-dae3-4452-bd6f-e80b10f57350": {
+      "id": "07982ff3-dae3-4452-bd6f-e80b10f57350",
+      "card": {
+        "title": "Lack of affordable cold storage for small vegetable vendors",
+        "who": "Small vegetable vendors",
+        "pain": "Their produce spoils within 36 hours during extreme summer heat because they cannot afford commercial cold storage.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Food"
+      },
+      "card_en": {
+        "title": "Lack of affordable cold storage for small vegetable vendors",
+        "who": "Small vegetable vendors",
+        "pain": "Their produce spoils within 36 hours during extreme summer heat because they cannot afford commercial cold storage.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Food"
+      },
+      "existing_solutions": [
+        {
+          "name": "Thermo King",
+          "summary": "Provides portable refrigerated units and trailers that small vendors can rent for affordable on‑site cold storage.",
+          "link": "https://www.google.com/search?q=Thermo+King"
+        },
+        {
+          "name": "Carrier",
+          "summary": "Offers modular commercial refrigeration units and walk‑in coolers suitable for low‑cost, small‑scale storage solutions.",
+          "link": "https://www.google.com/search?q=Carrier"
+        },
+        {
+          "name": "Dometic",
+          "summary": "Manufactures compact, energy‑efficient portable fridge/freezers that can be used by street vendors to keep produce fresh.",
+          "link": "https://www.google.com/search?q=Dometic"
+        },
+        {
+          "name": "Google Patents Search: Lack of affordable cold storage for small vegetable vendors Their produce spoils within 36 hours during extreme summer heat because they cannot afford commercial cold storage.",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Lack+of+affordable+cold+storage+for+small+vegetable+vendors+Their+produce+spoils+within+36+hours+during+extreme+summer+heat+because+they+cannot+afford+commercial+cold+storage."
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T04:27:16.926920+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "5d1ca132-4108-4eab-bf67-bf44b3d0cbfd": {
+      "id": "5d1ca132-4108-4eab-bf67-bf44b3d0cbfd",
+      "card": {
+        "title": "QR भुगतान में सूचना न मिलना",
+        "who": "दुकान मालिक",
+        "pain": "ग्राहक QR स्कैन करके भुगतान करता है, लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है।",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "card_en": {
+        "title": "No notification after QR payment",
+        "who": "Shop owner",
+        "pain": "Customer scans QR and pays, but the phone doesn't receive SMS or notification for up to 10 minutes, causing the customer to leave and creating confusion.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Money"
+      },
+      "existing_solutions": [
+        {
+          "name": "Paytm",
+          "summary": "A popular digital wallet and payment app in India that supports QR code payments and instantly sends in-app and SMS confirmations to users.",
+          "link": "https://www.google.com/search?q=Paytm"
+        },
+        {
+          "name": "PhonePe",
+          "summary": "A widely used UPI-based payment platform that offers QR code scanning for payments and provides immediate push notifications and transaction receipts.",
+          "link": "https://www.google.com/search?q=PhonePe"
+        },
+        {
+          "name": "Google Pay",
+          "summary": "A global mobile payment service that enables QR code transactions and delivers real‑time in-app notifications and SMS alerts confirming the payment.",
+          "link": "https://www.google.com/search?q=Google+Pay"
+        },
+        {
+          "name": "Google Patents Search: QR भुगतान में सूचना न मिलना ग्राहक QR स्कैन करके भुगतान करता है, लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है।",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=QR+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%E0%A4%A8+%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+QR+%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88%2C+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AB%E0%A5%8B%E0%A4%A8+%E0%A4%AA%E0%A4%B0+10+%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F+%E0%A4%A4%E0%A4%95+SMS+%E0%A4%AF%E0%A4%BE+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE%2C+%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+%E0%A4%9A%E0%A4%B2%E0%A4%BE+%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+%E0%A4%94%E0%A4%B0+%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A5%A4"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T04:49:38.175280+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "47be14d0-51a8-4934-bc4a-d818b8f03085": {
+      "id": "47be14d0-51a8-4934-bc4a-d818b8f03085",
+      "card": {
+        "title": "एसटी बसची अनियमित वेळा",
+        "who": "गावातील प्रवासी",
+        "pain": "बस वेळेची अनिश्चितता आणि खाजगी गाड्यांचे जास्त भाडे",
+        "frequency": "Not mentioned",
+        "workaround": "बस स्टँडवर थांबणे",
+        "category": "Transport"
+      },
+      "card_en": {
+        "title": "Irregular ST bus schedule",
+        "who": "Village commuters",
+        "pain": "Unpredictable bus timings and private vehicles charging excessive fares",
+        "frequency": "Not mentioned",
+        "workaround": "Waiting at the bus stand",
+        "category": "Transport"
+      },
+      "existing_solutions": [
+        {
+          "name": "Google Maps",
+          "summary": "Provides real-time public transit schedules and route planning, helping users navigate irregular bus timings.",
+          "link": "https://www.google.com/search?q=Google+Maps"
+        },
+        {
+          "name": "Moovit",
+          "summary": "Offers live bus arrival predictions and alternative routes, addressing uncertainty in bus schedules.",
+          "link": "https://www.google.com/search?q=Moovit"
+        },
+        {
+          "name": "Citymapper",
+          "summary": "Combines public transport data with cost comparisons, helping users find cheaper alternatives to expensive private rides.",
+          "link": "https://www.google.com/search?q=Citymapper"
+        },
+        {
+          "name": "Google Patents Search: एसटी बसची अनियमित वेळा बस वेळेची अनिश्चितता आणि खाजगी गाड्यांचे जास्त भाडे",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=%E0%A4%8F%E0%A4%B8%E0%A4%9F%E0%A5%80+%E0%A4%AC%E0%A4%B8%E0%A4%9A%E0%A5%80+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BF%E0%A4%A4+%E0%A4%B5%E0%A5%87%E0%A4%B3%E0%A4%BE+%E0%A4%AC%E0%A4%B8+%E0%A4%B5%E0%A5%87%E0%A4%B3%E0%A5%87%E0%A4%9A%E0%A5%80+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A4%A4%E0%A4%BE+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%96%E0%A4%BE%E0%A4%9C%E0%A4%97%E0%A5%80+%E0%A4%97%E0%A4%BE%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87+%E0%A4%9C%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4+%E0%A4%AD%E0%A4%BE%E0%A4%A1%E0%A5%87"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T04:53:20.986060+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "34775f11-fac1-464d-b30f-76fcc69ccde0": {
+      "id": "34775f11-fac1-464d-b30f-76fcc69ccde0",
+      "card": {
+        "title": "Lack of affordable cold storage for small veg vendors",
+        "who": "Small vegetable vendors",
+        "pain": "Produce spoils within 36 hours in extreme summer heat because they cannot afford commercial cold storage.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Food"
+      },
+      "card_en": {
+        "title": "Lack of affordable cold storage for small veg vendors",
+        "who": "Small vegetable vendors",
+        "pain": "Produce spoils within 36 hours in extreme summer heat because they cannot afford commercial cold storage.",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Food"
+      },
+      "existing_solutions": [
+        {
+          "name": "Dometic CFX",
+          "summary": "Portable fridge/freezer that provides reliable cold storage for small vendors, allowing them to keep produce fresh without a full commercial unit.",
+          "link": "https://www.google.com/search?q=Dometic+CFX"
+        },
+        {
+          "name": "Igloo Cooler",
+          "summary": "Insulated cooler with ice packs that offers an affordable, short‑term cold storage solution for street vendors to extend produce shelf life.",
+          "link": "https://www.google.com/search?q=Igloo+Cooler"
+        },
+        {
+          "name": "Thermo King Portable Refrigeration",
+          "summary": "Mobile refrigeration unit that can be rented or purchased for low‑cost cold storage, enabling small veg sellers to preserve goods in hot climates.",
+          "link": "https://www.google.com/search?q=Thermo+King+Portable+Refrigeration"
+        },
+        {
+          "name": "Google Patents Search: Lack of affordable cold storage for small veg vendors Produce spoils within 36 hours in extreme summer heat because they cannot afford commercial cold storage.",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Lack+of+affordable+cold+storage+for+small+veg+vendors+Produce+spoils+within+36+hours+in+extreme+summer+heat+because+they+cannot+afford+commercial+cold+storage."
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T04:56:59.689536+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "de4667c1-22b8-4dcb-972f-6fbed541a982": {
+      "id": "de4667c1-22b8-4dcb-972f-6fbed541a982",
+      "card": {
+        "title": "Difficulty finding shared autos and cabs",
+        "who": "People looking for shared rides",
+        "pain": "Hard to locate shared auto‑rickshaws and cabs",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Transport"
+      },
+      "card_en": {
+        "title": "Difficulty finding shared autos and cabs",
+        "who": "People looking for shared rides",
+        "pain": "Hard to locate shared auto‑rickshaws and cabs",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Transport"
+      },
+      "existing_solutions": [
+        {
+          "name": "Uber",
+          "summary": "Ride‑hailing app that lets users book shared or private cabs and, in some markets, offers auto‑rickshaw options",
+          "link": "https://www.google.com/search?q=Uber"
+        },
+        {
+          "name": "Ola",
+          "summary": "Indian ride‑hailing platform providing on‑demand cabs and shared auto‑rickshaw services",
+          "link": "https://www.google.com/search?q=Ola"
+        },
+        {
+          "name": "Grab",
+          "summary": "Southeast Asian super‑app offering shared car rides and auto‑rickshaw bookings in supported cities",
+          "link": "https://www.google.com/search?q=Grab"
+        },
+        {
+          "name": "Google Patents Search: Difficulty finding shared autos and cabs Hard to locate shared auto‑rickshaws and cabs",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Difficulty+finding+shared+autos+and+cabs+Hard+to+locate+shared+auto%E2%80%91rickshaws+and+cabs"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T05:01:31.600039+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "80aca1a5-f42e-4dee-9cac-735ed335030f": {
+      "id": "80aca1a5-f42e-4dee-9cac-735ed335030f",
+      "card": {
+        "title": "Difficulty finding shared autos and cabs",
+        "who": "Commuters",
+        "pain": "Finding shared auto-rickshaws and cabs is hard",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Transport"
+      },
+      "card_en": {
+        "title": "Difficulty finding shared autos and cabs",
+        "who": "Commuters",
+        "pain": "Finding shared auto-rickshaws and cabs is hard",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Transport"
+      },
+      "existing_solutions": [
+        {
+          "name": "Uber",
+          "summary": "Offers UberPOOL, a shared ride option that matches passengers heading in the same direction to reduce wait times and costs.",
+          "link": "https://www.google.com/search?q=Uber"
+        },
+        {
+          "name": "Lyft",
+          "summary": "Provides Lyft Shared, allowing users to find and join carpool rides with others traveling nearby.",
+          "link": "https://www.google.com/search?q=Lyft"
+        },
+        {
+          "name": "Ola",
+          "summary": "Features Ola Share, a service that aggregates nearby riders for shared auto-rickshaws and cabs to improve availability.",
+          "link": "https://www.google.com/search?q=Ola"
+        },
+        {
+          "name": "Google Patents Search: Difficulty finding shared autos and cabs Finding shared auto-rickshaws and cabs is hard",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Difficulty+finding+shared+autos+and+cabs+Finding+shared+auto-rickshaws+and+cabs+is+hard"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T05:01:50.571697+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "e2bbd8ec-9087-45f6-81c0-d11a634689ef": {
+      "id": "e2bbd8ec-9087-45f6-81c0-d11a634689ef",
+      "card": {
+        "title": "QR भुगतान में नोटिफिकेशन नहीं आता",
+        "who": "दुकान मालिक",
+        "pain": "ग्राहक QR स्कैन करता है, लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Work"
+      },
+      "card_en": {
+        "title": "No notification after QR payment",
+        "who": "Shop owner",
+        "pain": "Customer scans QR and pays, but no SMS or notification appears on the phone for up to 10 minutes, causing the customer to leave and creating confusion",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Work"
+      },
+      "existing_solutions": [
+        {
+          "name": "Paytm",
+          "summary": "A digital wallet and payment app in India that supports QR code payments and sends instant in-app and SMS notifications to customers.",
+          "link": "https://www.google.com/search?q=Paytm"
+        },
+        {
+          "name": "PhonePe",
+          "summary": "A popular Indian UPI payment app that enables QR code payments and provides real-time transaction alerts via push notifications and SMS.",
+          "link": "https://www.google.com/search?q=PhonePe"
+        },
+        {
+          "name": "Google Pay",
+          "summary": "A UPI-based payment platform that allows QR code payments and instantly notifies users of successful transactions through push notifications.",
+          "link": "https://www.google.com/search?q=Google+Pay"
+        },
+        {
+          "name": "Google Patents Search: QR भुगतान में नोटिफिकेशन नहीं आता ग्राहक QR स्कैन करता है, लेकिन फोन पर 10 मिनट तक SMS या नोटिफिकेशन नहीं आता, जिससे ग्राहक चला जाता है और भ्रम होता है",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=QR+%E0%A4%AD%E0%A5%81%E0%A4%97%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+QR+%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88%2C+%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8+%E0%A4%AB%E0%A5%8B%E0%A4%A8+%E0%A4%AA%E0%A4%B0+10+%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F+%E0%A4%A4%E0%A4%95+SMS+%E0%A4%AF%E0%A4%BE+%E0%A4%A8%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8+%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82+%E0%A4%86%E0%A4%A4%E0%A4%BE%2C+%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+%E0%A4%9A%E0%A4%B2%E0%A4%BE+%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+%E0%A4%94%E0%A4%B0+%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T05:30:00.857871+00:00",
+      "partial": false,
+      "errors": []
+    },
+    "e1463f1f-180c-47df-a72f-086736497814": {
+      "id": "e1463f1f-180c-47df-a72f-086736497814",
+      "card": {
+        "title": "Timetable banane mein mushkil",
+        "who": "University ke teachers",
+        "pain": "Limited classroom aur jada sections ki vajah se timetable banana mushkil hai",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Education"
+      },
+      "card_en": {
+        "title": "Difficulty creating timetables",
+        "who": "University teachers",
+        "pain": "Limited classrooms and many sections make it hard to create timetables",
+        "frequency": "Not mentioned",
+        "workaround": "Not mentioned",
+        "category": "Education"
+      },
+      "existing_solutions": [
+        {
+          "name": "Untis",
+          "summary": "A comprehensive school timetabling software that automates schedule creation, handling limited classrooms and many sections.",
+          "link": "https://www.google.com/search?q=Untis"
+        },
+        {
+          "name": "aSc Timetables",
+          "summary": "A commercial scheduling tool for schools that optimizes timetables considering room constraints and multiple class sections.",
+          "link": "https://www.google.com/search?q=aSc+Timetables"
+        },
+        {
+          "name": "PowerSchool Scheduling",
+          "summary": "Part of the PowerSchool suite, it generates conflict‑free school timetables while managing limited resources and numerous sections.",
+          "link": "https://www.google.com/search?q=PowerSchool+Scheduling"
+        },
+        {
+          "name": "Google Patents Search: Timetable banane mein mushkil Limited classroom aur jada sections ki vajah se timetable banana mushkil hai",
+          "summary": "Google Patents search query.",
+          "link": "https://patents.google.com/?q=Timetable+banane+mein+mushkil+Limited+classroom+aur+jada+sections+ki+vajah+se+timetable+banana+mushkil+hai"
+        }
+      ],
+      "shared": true,
+      "created_at": "2026-10-13T05:58:41.068997+00:00",
+      "partial": false,
+      "errors": []
+    }
+  },
+  "reports": {
+    "7d87ce44-698d-49d7-ba74-bf3f34bfbe92": {
+      "id": "7d87ce44-698d-49d7-ba74-bf3f34bfbe92",
+      "idea_text": "Smart solar tracker that rotates panels according to sun position using cheap LDR sensors",
+      "idea_card": {
+        "title": "Smart Solar Tracker",
+        "main_features": [
+          "Automatic panel rotation",
+          "Cheap LDR sensor detection",
+          "Sun position tracking",
+          "Simple installation",
+          "Low-cost design"
+        ],
+        "keywords": [
+          "solar tracker",
+          "panel tracking",
+          "LDR sensor",
+          "sun tracking",
+          "renewable energy",
+          "low-cost solar"
+        ]
+      },
+      "matches": [
+        {
+          "type": "product",
+          "title": "NEXTracker",
+          "link": "https://www.google.com/search?q=NEXTracker",
+          "text": "Similarities: Rotates panels using sensors to follow the sun.\nDifferences: Does not mention cheap LDR sensors or low‑cost design.",
+          "similarity": 70
+        },
+        {
+          "type": "product",
+          "title": "Soltec",
+          "link": "https://www.google.com/search?q=Soltec",
+          "text": "Similarities: Uses sensor‑driven positioning to maximize energy capture.\nDifferences: No reference to cheap LDRs or simple, low‑cost installation.",
+          "similarity": 60
+        },
+        {
+          "type": "product",
+          "title": "Array Technologies",
+          "link": "https://www.google.com/search?q=Array+Technologies",
+          "text": "Similarities: Adjusts panel orientation based on sunlight detection.\nDifferences: Lacks details on cheap LDR sensors or cost efficiency.",
+          "similarity": 55
+        },
+        {
+          "type": "patent",
+          "title": "Google Patents Search: Smart solar tracker that rotates panels according to sun position using cheap LDR sensors",
+          "link": "https://patents.google.com/?q=Smart+solar+tracker+that+rotates+panels+according+to+sun+position+using+cheap+LDR+sensors",
+          "text": "Similarities: Title notes cheap LDR sensors for sun tracking.\nDifferences: Text provides no details to confirm features.",
+          "similarity": 20
+        }
+      ],
+      "compare_table": [
+        {
+          "feature": "Automatic panel rotation",
+          "found": true,
+          "found_in": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "feature": "Cheap LDR sensor detection",
+          "found": true,
+          "found_in": [
+            3
+          ]
+        },
+        {
+          "feature": "Sun position tracking",
+          "found": true,
+          "found_in": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "feature": "Simple installation",
+          "found": false,
+          "found_in": []
+        },
+        {
+          "feature": "Low-cost design",
+          "found": false,
+          "found_in": []
+        }
+      ],
+      "uniqueness_score": 44,
+      "score_breakdown": {
+        "closest_match_deduction": 35.0,
+        "crowd_deduction": 6.25,
+        "feature_overlap_deduction": 15.0
+      },
+      "created_at": "2026-10-12T22:37:54.005107+00:00",
+      "partial": false,
+      "errors": [],
+      "input_hash": "9e789334fb865543624be4ec7bcf9f0e4e2b7604e1c37edd12f14c1a29cd4b4b"
+    },
+    "e1a60ae1-1827-4206-9ea1-cbe683b26e0c": {
+      "id": "e1a60ae1-1827-4206-9ea1-cbe683b26e0c",
+      "idea_text": "A peer-to-peer offline Bluetooth mesh tracking app for rural government buses that shares approximate vehicle locations between passengers without requiring GPS telemetry hardware.",
+      "idea_card": {
+        "title": "Bluetooth Mesh Bus Tracker",
+        "main_features": [
+          "Bluetooth mesh peer-to-peer network",
+          "Offline location sharing",
+          "Approximate vehicle location estimation",
+          "Works on passenger devices",
+          "No GPS required"
+        ],
+        "keywords": [
+          "Bluetooth mesh",
+          "bus tracking",
+          "offline location",
+          "rural transport",
+          "peer-to-peer app",
+          "vehicle location sharing",
+          "GPS-free tracking"
+        ]
+      },
+      "matches": [
+        {
+          "type": "product",
+          "title": "Bridgefy",
+          "link": "https://www.google.com/search?q=Bridgefy",
+          "text": "Similarities: Both use offline Bluetooth mesh to share approximate location without GPS.\nDifferences: Bridgefy is a general messaging app, not a bus‑tracking solution.",
+          "similarity": 75
+        },
+        {
+          "type": "product",
+          "title": "goTenna Mesh",
+          "link": "https://www.google.com/search?q=goTenna+Mesh",
+          "text": "Similarities: Creates a peer‑to‑peer Bluetooth mesh for location sharing without GPS.\nDifferences: Designed for goTenna hardware, not passenger phones or bus routes.",
+          "similarity": 70
+        },
+        {
+          "type": "product",
+          "title": "FireChat",
+          "link": "https://www.google.com/search?q=FireChat",
+          "text": "Similarities: Forms an ad‑hoc Bluetooth mesh that broadcasts user position.\nDifferences: Includes Wi‑Fi Direct chat features and isn’t focused on bus tracking.",
+          "similarity": 60
+        },
+        {
+          "type": "patent",
+          "title": "Google Patents Search: A peer-to-peer offline Bluetooth mesh tracking app for rural government buses that shares approximate vehicle locations between passengers without requiring GPS telemetry hardware.",
+          "link": "https://patents.google.com/?q=A+peer-to-peer+offline+Bluetooth+mesh+tracking+app+for+rural+government+buses+that+shares+approximate+vehicle+locations+between+passengers+without+requiring+GPS+telemetry+hardware.",
+          "text": "Similarities: Title describes an offline Bluetooth mesh app for rural bus tracking.\nDifferences: No detailed description is provided, so features cannot be confirmed.",
+          "similarity": 30
+        }
+      ],
+      "compare_table": [
+        {
+          "feature": "Bluetooth mesh peer-to-peer network",
+          "found": true,
+          "found_in": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "feature": "Offline location sharing",
+          "found": true,
+          "found_in": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "feature": "Approximate vehicle location estimation",
+          "found": true,
+          "found_in": [
+            0
+          ]
+        },
+        {
+          "feature": "Works on passenger devices",
+          "found": false,
+          "found_in": []
+        },
+        {
+          "feature": "No GPS required",
+          "found": true,
+          "found_in": [
+            0,
+            1
+          ]
+        }
+      ],
+      "uniqueness_score": 30,
+      "score_breakdown": {
+        "closest_match_deduction": 37.5,
+        "crowd_deduction": 12.5,
+        "feature_overlap_deduction": 20.0
+      },
+      "created_at": "2026-10-12T22:40:58.629631+00:00",
+      "partial": false,
+      "errors": [],
+      "input_hash": "8b403de23087e3d1855595369a3ae3f0738b648106d736668d774c64da582293"
+    },
+    "54612805-4305-4c31-b7d7-3928d26f5a65": {
+      "id": "54612805-4305-4c31-b7d7-3928d26f5a65",
+      "idea_text": "Make a food delivery app to bring food at your doorstep",
+      "idea_card": {
+        "title": "Doorstep Food Delivery App",
+        "main_features": [
+          "Browse local restaurant menus",
+          "Place orders with payment integration",
+          "Real-time order tracking",
+          "Doorstep delivery",
+          "User reviews and ratings"
+        ],
+        "keywords": [
+          "food delivery",
+          "restaurant app",
+          "mobile ordering",
+          "doorstep delivery",
+          "meal delivery",
+          "online food ordering"
+        ]
+      },
+      "matches": [
+        {
+          "type": "product",
+          "title": "Uber Eats",
+          "link": "https://www.google.com/search?q=Uber+Eats",
+          "text": "Similarities: Provides on-demand food delivery from local restaurants to doorstep.\nDifferences: Does not mention payment integration, order tracking, or user reviews.",
+          "similarity": 65
+        },
+        {
+          "type": "product",
+          "title": "DoorDash",
+          "link": "https://www.google.com/search?q=DoorDash",
+          "text": "Similarities: Allows ordering from nearby eateries with doorstep delivery.\nDifferences: No mention of payment integration, tracking, or reviews.",
+          "similarity": 65
+        },
+        {
+          "type": "product",
+          "title": "Grubhub",
+          "link": "https://www.google.com/search?q=Grubhub",
+          "text": "Similarities: Marketplace to order meals from many restaurants with home delivery.\nDifferences: Lacks details on payment integration, tracking, and reviews.",
+          "similarity": 65
+        },
+        {
+          "type": "patent",
+          "title": "Google Patents Search: Make a food delivery app to bring food at your doorstep",
+          "link": "https://patents.google.com/?q=Make+a+food+delivery+app+to+bring+food+at+your+doorstep",
+          "text": "Similarities: Mentions a food delivery app for doorstep service.\nDifferences: Provides no details on menus, payment, tracking, or reviews.",
+          "similarity": 15
+        }
+      ],
+      "compare_table": [
+        {
+          "feature": "Browse local restaurant menus",
+          "found": false,
+          "found_in": []
+        },
+        {
+          "feature": "Place orders with payment integration",
+          "found": false,
+          "found_in": []
+        },
+        {
+          "feature": "Real-time order tracking",
+          "found": false,
+          "found_in": []
+        },
+        {
+          "feature": "Doorstep delivery",
+          "found": true,
+          "found_in": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "feature": "User reviews and ratings",
+          "found": false,
+          "found_in": []
+        }
+      ],
+      "uniqueness_score": 62,
+      "score_breakdown": {
+        "closest_match_deduction": 32.5,
+        "crowd_deduction": 0.0,
+        "feature_overlap_deduction": 5.0
+      },
+      "created_at": "2026-10-13T04:36:11.964389+00:00",
+      "partial": false,
+      "errors": [],
+      "input_hash": "506ef45c415b3a452eb86c8792f2ec894ebff7e693522123063f80afeb0101a7"
+    },
+    "4415eb72-6430-434f-abdd-e7ebf65436cf": {
+      "id": "4415eb72-6430-434f-abdd-e7ebf65436cf",
+      "idea_text": "A solution addressing \"Difficulty finding shared autos and cabs\": Specifically targeting the pain that Finding shared auto-rickshaws and cabs is hard. Features:",
+      "idea_card": {
+        "title": "Shared Auto Finder",
+        "main_features": [],
+        "keywords": [
+          "shared auto",
+          "shared cab",
+          "auto rickshaw app",
+          "ride sharing",
+          "transport locator",
+          "carpool",
+          "urban mobility"
+        ]
+      },
+      "matches": [
+        {
+          "type": "product",
+          "title": "Uber",
+          "link": "https://www.google.com/search?q=Uber",
+          "text": "Similarities: Helps locate and book shared cabs easily.\nDifferences: Does not cover auto‑rickshaws; Uber is a broader ride‑hailing platform.",
+          "similarity": 70
+        },
+        {
+          "type": "product",
+          "title": "Lyft",
+          "link": "https://www.google.com/search?q=Lyft",
+          "text": "Similarities: Matches riders for shared rides.\nDifferences: Focuses on car rides, not auto‑rickshaws; broader service.",
+          "similarity": 70
+        },
+        {
+          "type": "product",
+          "title": "Ola",
+          "link": "https://www.google.com/search?q=Ola",
+          "text": "Similarities: Finds and books shared auto‑rickshaws and cabs.\nDifferences: No significant differences; idea is essentially the same service.",
+          "similarity": 85
+        },
+        {
+          "type": "patent",
+          "title": "Google Patents Search: A solution addressing \"Difficulty finding shared autos and cabs\": Specifically targeting the pain that Finding shared auto-rickshaws and cabs is hard. Features:",
+          "link": "https://patents.google.com/?q=A+solution+addressing+%22Difficulty+finding+shared+autos+and+cabs%22%3A+Specifically+targeting+the+pain+that+Finding+shared+auto-rickshaws+and+cabs+is+hard.+Features%3A",
+          "text": "Similarities: Addresses difficulty locating shared autos and cabs.\nDifferences: Only a patent title is given; no detailed features to compare.",
+          "similarity": 10
+        }
+      ],
+      "compare_table": [],
+      "uniqueness_score": 39,
+      "score_breakdown": {
+        "closest_match_deduction": 42.5,
+        "crowd_deduction": 18.75,
+        "feature_overlap_deduction": 0.0
+      },
+      "created_at": "2026-10-13T05:04:00.276323+00:00",
+      "partial": false,
+      "errors": [],
+      "input_hash": "5071a8c87ee1d605b1eef08b6c97923ce4d117ba1f0ee53dd3d972b03e8a9045"
+    },
+    "89966c83-7fb7-4e02-86c5-7e7f5ff35918": {
+      "id": "89966c83-7fb7-4e02-86c5-7e7f5ff35918",
+      "idea_text": "Project Title: HatchMatch\n\nTarget Users / Audience: Students\n\nProblem Solved: hackathons ka idea find krne ke liye genuine sources ko manually visit krna pdta hai jaise ki google scholar\n\nKey Technical Features: 1. bridge between normal people and students\n2. normal people can explain their pain points openly\n\nDetailed Solution Pitch: Na",
+      "idea_card": {
+        "title": "HatchMatch",
+        "main_features": [
+          "Bridge between students and non‑students",
+          "Allows non‑students to share pain points openly"
+        ],
+        "keywords": [
+          "hackathon ideas",
+          "student platform",
+          "idea sharing",
+          "pain point discussion",
+          "collaboration tool"
+        ]
+      },
+      "matches": [
+        {
+          "type": "product",
+          "title": "Devpost",
+          "link": "https://www.google.com/search?q=Devpost",
+          "text": "Similarities: Both involve hackathons for students.\nDifferences: Does not connect students with non‑students or share pain points.",
+          "similarity": 15
+        },
+        {
+          "type": "product",
+          "title": "Hackerearth",
+          "link": "https://www.google.com/search?q=Hackerearth",
+          "text": "Similarities: Both help students find hackathon ideas.\nDifferences: No feature for non‑students sharing pain points.",
+          "similarity": 20
+        },
+        {
+          "type": "product",
+          "title": "IdeaScale",
+          "link": "https://www.google.com/search?q=IdeaScale",
+          "text": "Similarities: Both connect students with non‑students to share real pain points.\nDifferences: IdeaScale is broader and not hackathon‑specific.",
+          "similarity": 70
+        },
+        {
+          "type": "patent",
+          "title": "Google Patents Search: Project Title: HatchMatch\n\nTarget Users / Audience: Students\n\nProblem Solved: hackathons ka idea find krne ke liye genuine sources ko manually visit krna pdta hai jaise ki google scholar\n\nKey Technical Features: 1. bridge between normal people and students\n2. normal people can explain their pain points openly\n\nDetailed Solution Pitch: Na",
+          "link": "https://patents.google.com/?q=Project+Title%3A+HatchMatch%0A%0ATarget+Users+%2F+Audience%3A+Students%0A%0AProblem+Solved%3A+hackathons+ka+idea+find+krne+ke+liye+genuine+sources+ko+manually+visit+krna+pdta+hai+jaise+ki+google+scholar%0A%0AKey+Technical+Features%3A+1.+bridge+between+normal+people+and+students%0A2.+normal+people+can+explain+their+pain+points+openly%0A%0ADetailed+Solution+Pitch%3A+Na",
+          "text": "Similarities: Both describe a bridge between students and non‑students sharing pain points.\nDifferences: Patent is a formal description, not a product implementation.",
+          "similarity": 90
+        }
+      ],
+      "compare_table": [
+        {
+          "feature": "Bridge between students and non‑students",
+          "found": true,
+          "found_in": [
+            2,
+            3
+          ]
+        },
+        {
+          "feature": "Allows non‑students to share pain points openly",
+          "found": true,
+          "found_in": [
+            2,
+            3
+          ]
+        }
+      ],
+      "uniqueness_score": 18,
+      "score_breakdown": {
+        "closest_match_deduction": 45.0,
+        "crowd_deduction": 12.5,
+        "feature_overlap_deduction": 25.0
+      },
+      "created_at": "2026-10-13T06:01:57.981844+00:00",
+      "partial": false,
+      "errors": [],
+      "input_hash": "042808f7ea15d2f75cf1789ca48a13747388e07be1cf8f96c4618b7c1e129bd1"
+    }
+  }
+}
